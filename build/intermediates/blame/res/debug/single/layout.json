@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\workspace\\testApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_launch.xml",
+        "source": "E:\\workspace\\testApp\\res\\layout\\activity_launch.xml"
+    },
+    {
+        "merged": "E:\\workspace\\testApp\\build\\intermediates\\res\\merged\\debug\\layout\\ip_address_editor.xml",
+        "source": "E:\\workspace\\testApp\\res\\layout\\ip_address_editor.xml"
+    },
+    {
+        "merged": "E:\\workspace\\testApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_battle.xml",
+        "source": "E:\\workspace\\testApp\\res\\layout\\activity_battle.xml"
+    },
+    {
+        "merged": "E:\\workspace\\testApp\\build\\intermediates\\res\\merged\\debug\\layout\\mac_address_editor.xml",
+        "source": "E:\\workspace\\testApp\\res\\layout\\mac_address_editor.xml"
+    },
+    {
+        "merged": "E:\\workspace\\testApp\\build\\intermediates\\res\\merged\\debug\\layout\\device_list.xml",
+        "source": "E:\\workspace\\testApp\\res\\layout\\device_list.xml"
+    },
+    {
+        "merged": "E:\\workspace\\testApp\\build\\intermediates\\res\\merged\\debug\\layout\\test.xml",
+        "source": "E:\\workspace\\testApp\\res\\layout\\test.xml"
+    }
+]

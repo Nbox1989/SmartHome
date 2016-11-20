@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\workspace\testApp\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b6c138ba72ce38beda559df33d369856854fd6f5">
+        <dex dex="E:\workspace\testApp\build\intermediates\pre-dexed\debug\android-support-v4_f24665e5b761b7bf5b6f49c028921d8e1ea1a78b.jar" />
+    </item>
+
+</items>

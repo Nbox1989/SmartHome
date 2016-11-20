@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\workspace\\testApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\poke_fuwa.png",
+        "source": "E:\\workspace\\testApp\\res\\drawable-hdpi\\poke_fuwa.png"
+    },
+    {
+        "merged": "E:\\workspace\\testApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\divider.xml",
+        "source": "E:\\workspace\\testApp\\res\\drawable-hdpi\\divider.xml"
+    },
+    {
+        "merged": "E:\\workspace\\testApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\workspace\\testApp\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]
